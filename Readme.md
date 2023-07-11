@@ -1,3 +1,6 @@
+<link href="style.css" rel="stylesheet">
+
+
 ## Challenge: Creating our Dev.to article
 
 # Solution
@@ -12,11 +15,7 @@ Create Dev.to account
 Login to Dev.to and click "Write a Post"
 
 ##### Step 2
-Create an article title with an emoji on Dev.to on a technical subject or project from Scrimba
+<p style='color:red'>Create an article title with an emoji on Dev.to on a technical subject or project from Scrimba</p>
 
-<style>
-    p{
-        color:red
-    }
-</style>
+
 
