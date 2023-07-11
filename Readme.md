@@ -1,8 +1,16 @@
-I am a paragraph
+## Challenge: Creating our Dev.to article
 
-# heading 1
-## heading 2 
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
+# Solution
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/prnyk8ixsd9ab0mwilip.png){ width: 200px}
+
+# Markdown Course LIVE on Scrimba
+
+##### Step 0
+Create Dev.to account
+
+##### Step 1
+Login to Dev.to and click "Write a Post"
+
+##### Step 2
+Create an article title with an emoji on Dev.to on a technical subject or project from Scrimba
+
