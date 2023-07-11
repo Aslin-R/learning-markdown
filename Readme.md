@@ -1,7 +1,7 @@
 ## Challenge: Creating our Dev.to article
 
 # Solution
-<img src="https://dev-to-uploads.s3.amazonaws.com/i/prnyk8ixsd9ab0mwilip.png">
+![image](https://dev-to-uploads.s3.amazonaws.com/i/prnyk8ixsd9ab0mwilip.png)
 
 # Markdown Course LIVE on Scrimba
 
@@ -13,4 +13,10 @@ Login to Dev.to and click "Write a Post"
 
 ##### Step 2
 Create an article title with an emoji on Dev.to on a technical subject or project from Scrimba
+
+<style>
+    p{
+        color:red
+    }
+</style>
 
