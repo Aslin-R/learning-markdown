@@ -1,7 +1,7 @@
 ## Challenge: Creating our Dev.to article
 
 # Solution
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/prnyk8ixsd9ab0mwilip.png){ width: 200px}
+<img src="https://dev-to-uploads.s3.amazonaws.com/i/prnyk8ixsd9ab0mwilip.png">
 
 # Markdown Course LIVE on Scrimba
 
