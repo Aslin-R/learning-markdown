@@ -1,21 +1,3 @@
-<link href="style.css" rel="stylesheet">
-
-
-## Challenge: Creating our Dev.to article
-
-# Solution
-![image](https://dev-to-uploads.s3.amazonaws.com/i/prnyk8ixsd9ab0mwilip.png)
-
-# Markdown Course LIVE on Scrimba
-
-##### Step 0
-Create Dev.to account
-
-##### Step 1
-Login to Dev.to and click "Write a Post"
-
-##### Step 2
-<p style='color:red'>Create an article title with an emoji on Dev.to on a technical subject or project from Scrimba</p>
-
-
-
+italic - *I am Italic* _I also_
+Bold - **I am Bold** __I also__
+striked - ~~I am Striked~~
