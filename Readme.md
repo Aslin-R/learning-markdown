@@ -1,3 +1,5 @@
-# Markdown Logo
+# links and emails 
 
-![logo of md](https://www.fullstackpython.com/img/logos/markdown.png)
+[github](https://github.com/aslin-r "Aslin's github id")
+
+<aslinjoelr123@gmail.com>
