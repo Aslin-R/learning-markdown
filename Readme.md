@@ -1,5 +1,3 @@
-# links and emails 
+# image as link
 
-[github](https://github.com/aslin-r "Aslin's github id")
-
-<aslinjoelr123@gmail.com>
+[![github](https://pngimg.com/uploads/github/github_PNG40.png)](https://github.com/aslin-r)
