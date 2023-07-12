@@ -3,7 +3,10 @@
 
 **Python** is a general-purpose programming language that is known for its *simple syntax* and its powerful capabilities. It is used by a wide range of people, from beginners to experienced developers.
 
-<img height='100' width='100' align="center" src='https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png'>
+<div style="text-align:center">
+    <img height='100' width='100' src='https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png'>
+</div>
+
 
 Python was created in the late 1980s by **Guido van Rossum**. The first version of Python was released in 1991. Since then, Python has become one of the most popular programming languages in the world.
 
