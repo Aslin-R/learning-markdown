@@ -1,20 +1,22 @@
-### A Simple Programming Language with a Powerful History
+## A Simple Programming Language with a Powerful History
 
 
 **Python** is a general-purpose programming language that is known for its *simple syntax* and its powerful capabilities. It is used by a wide range of people, from beginners to experienced developers.
 
 <div style="text-align:center">
-    <img height='100' width='100' src='https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png'>
+    <img height='150' width='150' src='https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png'>
 </div>
 
 
 Python was created in the late 1980s by **Guido van Rossum**. The first version of Python was released in 1991. Since then, Python has become one of the most popular programming languages in the world.
 
+>"Python is a great first language, and a great last language." - Guido van Rossum, creator of Python
+
 Python is a simple language to learn. The syntax is easy to understand, and there are many resources available to help beginners get started. Once you have learned the basics, you can start to build your own projects.
 
 Python is also a powerful language. It can be used for a wide variety of tasks, including web development, data science, and machine learning. It is also used by many large companies, such as Google, Facebook, and Netflix.
 
->**Here is a table of Python versions and their release years:**
+#### Here is a table of Python versions and their release years:
 
 | Version | Year |
 |---|---|
@@ -32,7 +34,7 @@ Python is also a powerful language. It can be used for a wide variety of tasks, 
 | Python 3.9 | 2020 |
 | Python 3.10 | 2021 |
 
-**Here is a sample Python code:**
+#### Here is a sample Python code
 
 ```python
 def factorial(n):
@@ -50,13 +52,31 @@ The code first checks if the number is 0. If it is, then the function returns 1.
 
 The code then prints the result of the `factorial()` function. In this case, the result is 120.
 
-**Conclusion:**
+#### Summary
 
 Python is a powerful and versatile programming language that is easy to learn. It is a great choice for beginners and experienced developers alike. If you are looking for a programming language to learn, I highly recommend Python.
 
-**Call to action:**
 
-If you are interested in learning more about Python, try this 
+#### References
+
+- [Python Documentation](https://docs.python.org/3/)
+- [Python.org](https://docs.python.org/3/)
+- [Python Tutorial on W3Schools](https://www.w3schools.com/python/)
+- [Real Python](https://realpython.com/)
+- [Python Weekly](https://www.pythonweekly.com/)
+- [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
+
+##### What are the programming languages do you know ?
+
+- [ ] Python
+- [ ] Java
+- [ ] C
+- [ ] PHP
+- [ ] JavaScript
+- [ ] C++
+- [ ] other
+
+
 
 
 
