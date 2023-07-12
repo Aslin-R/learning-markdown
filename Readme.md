@@ -56,22 +56,10 @@ Python is a powerful and versatile programming language that is easy to learn. I
 
 **Call to action:**
 
-If you are interested in learning more about Python, there are many resources available online. You can also find Python tutorials and courses on platforms like Udemy and Coursera.
-
-I hope this blog post has convinced you to give Python a try!
-
-**Tags:**
-
-* python
-* programming language
-* beginner
-* powerful
-* simple syntax
-* history
-* sample code
+If you are interested in learning more about Python, try this 
 
 
 
-[Image of a globe with Python code running on it.]
 
-I hope this helps! Let me know if you have any other questions.
+
+
