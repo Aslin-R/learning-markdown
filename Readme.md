@@ -1,5 +1,7 @@
-# Tables
+# Automatic urls
 
-| left | center | Right |
-|:-----|:------:|------:|
-| 1    | 2      |3      |
+[github](https://github.com/aslin-r)
+
+https://github.com/aslin-r
+
+`https://github.com/aslin-r`
