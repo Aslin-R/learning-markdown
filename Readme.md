@@ -1,3 +1,5 @@
-# image as link
+# Tables
 
-[![github](https://pngimg.com/uploads/github/github_PNG40.png)](https://github.com/aslin-r)
+| left | center | Right |
+|------|--------|-------|
+| 1    | 2      |3      |
