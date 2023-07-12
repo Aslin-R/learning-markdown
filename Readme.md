@@ -1,18 +1,17 @@
-Python: A Simple Programming Language with a Powerful History
+### A Simple Programming Language with a Powerful History
 
-**Introduction:**
 
-Python is a general-purpose programming language that is known for its simple syntax and its powerful capabilities. It is used by a wide range of people, from beginners to experienced developers.
+**Python** is a general-purpose programming language that is known for its *simple syntax* and its powerful capabilities. It is used by a wide range of people, from beginners to experienced developers.
 
-**Body:**
+<img style='height:100' src='https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png'>
 
-Python was created in the late 1980s by Guido van Rossum. The first version of Python was released in 1991. Since then, Python has become one of the most popular programming languages in the world.
+Python was created in the late 1980s by **Guido van Rossum**. The first version of Python was released in 1991. Since then, Python has become one of the most popular programming languages in the world.
 
 Python is a simple language to learn. The syntax is easy to understand, and there are many resources available to help beginners get started. Once you have learned the basics, you can start to build your own projects.
 
 Python is also a powerful language. It can be used for a wide variety of tasks, including web development, data science, and machine learning. It is also used by many large companies, such as Google, Facebook, and Netflix.
 
-**Here is a table of Python versions and their release years:**
+>**Here is a table of Python versions and their release years:**
 
 | Version | Year |
 |---|---|
